@@ -5,6 +5,7 @@ fa = 0
 fc= 0
 fg = 0
 ft =0
+
 for x in s:
     if x == "A":
         fa = fa + 1
